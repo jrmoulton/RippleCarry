@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/jaredmoulton/Programming/Vivado/RippleCarry/RippleCarry.srcs/sources_1/imports/new/FullAdder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FullAdder
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/jaredmoulton/Programming/Vivado/RippleCarry/RippleCarry.srcs/sources_1/new/RippleCarry.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RippleCarry
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/jaredmoulton/Programming/Vivado/RippleCarry/RippleCarry.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
